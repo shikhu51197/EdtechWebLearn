@@ -1,6 +1,6 @@
 
 
-> 💻 PROJECT NAME ✨ => 💻 SkilltankProductionweb
+> 💻 PROJECT NAME ✨ => 💻 Edtechweb
 <br>
 
 
